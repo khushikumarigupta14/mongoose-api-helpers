@@ -1,39 +1,3 @@
-Absolutely! Here's a comprehensive README file for your GitHub and npm package, incorporating all the details you provided, structured for clarity and ease of use:
-
-````markdown
-# Advanced API Features
-
-[![NPM Version](https://img.shields.io/npm/v/mongoose-api-helpers.svg)](https://www.npmjs.com/package/mongoose-api-helpers)
-[![Build Status](https://img.shields.io/travis/your-github-username/mongoose-api-helpers.svg?branch=main)](https://travis-ci.org/your-github-username/mongoose-api-helpers)
-[![License](https://img.shields.io/npm/l/mongoose-api-helpers.svg)](https://github.com/your-github-username/mongoose-api-helpers/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/npm/dt/mongoose-api-helpers.svg)](https://www.npmjs.com/package/mongoose-api-helpers)
-
-A robust and flexible utility package designed to streamline advanced filtering, pagination, searching, and population operations for MongoDB with Mongoose. This package significantly reduces boilerplate code in your Express.js or Node.js API controllers.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Basic Usage](#basic-usage)
-  - [Advanced Usage with Customization](#advanced-usage-with-customization)
-  - [API Response with Pagination](#api-response-with-pagination)
-- [API Reference](#api-reference)
-  - [ApiFeatures Class](#apifeatures-class)
-  - [getPagination Function](#getpagination-function)
-  - [Query Parameters](#query-parameters)
-- [Examples](#examples)
-  - [Filtering](#filtering)
-  - [Searching](#searching)
-  - [Sorting](#sorting)
-  - [Field Selection](#field-selection)
-  - [Pagination](#pagination)
-  - [Population](#population)
-- [TypeScript Support](#typescript-support)
-- [Contribution](#contribution)
-  - [Git Commit Messages](#git-commit-messages)
-- [Publishing to NPM](#publishing-to-npm)
-- [License](#license)
 
 ## Features
 
