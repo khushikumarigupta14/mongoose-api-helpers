@@ -1,6 +1,6 @@
 {
   "name": "mongoose-api-helpers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Advanced query filtering, pagination, search and population for MongoDB with Mongoose",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,17 +13,69 @@
   },
   "keywords": [
     "mongoose",
+    "mongodb",
+    "express",
+    "nodejs",
+    "rest-api",
+    "crud",
+    "query-helpers",
+    "api-pagination",
+    "api-filter",
+    "api-sorting",
+    "api-search",
+    "advanced-query",
+    "mongoose-crud",
+    "database-queries",
+    "express-middleware",
+    "mongoose",
+    "mongoose-helpers",
+    "mongoose-api",
+    "mongoose-plugins",
+    "mongoose-middleware",
+    "express",
+    "express-middleware",
+    "express-helpers",
     "api",
+    "api-helpers",
+    "api-utils",
+    "api-features",
+    "rest",
+    "rest-api",
+    "crud",
+    "crud-api",
+    "database",
+    "mongodb",
+    "mongodb-helper",
+    "mongodb-utils",
     "query",
-    "filter",
+    "query-builder",
     "pagination",
+    "filter",
     "search",
-    "mongodb"
+    "sorting",
+    "validation",
+    "error-handling",
+    "request-handler",
+    "data-modeling",
+    "middleware",
+    "node",
+    "nodejs",
+    "backend",
+    "backend-utils",
+    "developer-tools"
   ],
   "files": [
     "dist"
   ],
   "author": "Khushi Kumari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khushikumarigupta14/mongoose-api-helpers"
+  },
+  "bugs": {
+    "url": "https://github.com/khushikumarigupta14/mongoose-api-helpers/issues"
+  },
+  "homepage": "https://github.com/khushikumarigupta14/mongoose-api-helpers#readme",
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^9.34.0",
@@ -44,7 +96,9 @@
     "typescript-eslint": "^8.41.0"
   },
   "dependencies": {
-    "mongoose": "^7.8.7",
-    "mongoose-api-helpers": "^1.0.0"
+    "mongoose": "^7.8.7"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
