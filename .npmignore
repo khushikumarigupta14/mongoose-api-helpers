@@ -1,0 +1,10 @@
+# Ignore everything except dist and package.json
+# .npmignore
+src/
+tests/
+*.ts
+*.log
+.vscode/
+.idea/
+.env
+node_modules/
