@@ -20,6 +20,9 @@
     "search",
     "mongodb"
   ],
+  "files": [
+    "dist"
+  ],
   "author": "Khushi Kumari",
   "license": "MIT",
   "devDependencies": {
